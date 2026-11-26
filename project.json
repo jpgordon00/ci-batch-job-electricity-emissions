@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "batch-job-electricity-emissions",
+  "repository": "https://github.com/jpgordon00/ci-batch-job-electricity-emissions",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/batch-job-electricity-emissions/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/batch-job-electricity-emissions",
+  "catalog_commit": "71c3eaf85a898f102d915836adf9ad449134e110"
+}
